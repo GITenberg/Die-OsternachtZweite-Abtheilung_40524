@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40436'
     url: http://www.gutenberg.org/2009/agents/40436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40524#Die-OsternachtZweite-Abtheilung
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-08-18'
 gutenberg_type: Text
